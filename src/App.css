@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.color-list{
+  padding: 100px;
+    border: 2px solid white;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 5px #5a5a5a;
+    display: flex;
+    flex-direction: row;
+}
+.color-item{
+  height: 50px;
+  width: 50px;
+  border-radius: 7px;
+  box-shadow: 0 10px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-right: 8px;
+
+}
+.color-picker{
+  text-align: center;
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 5%;
+    box-shadow: 0 0 10px 5px #5a5a5a;
+}
+.btn{
+  background-color: rgb(6, 217, 6);
+  padding: 20px;
+  border: 2px solid rgb(6, 217, 6);
+  border-radius: 10px;
+  box-shadow: 0 0 10px 5px #5a5a5a;
+}
+h1{
+  color: #0f0e46;
+  font-size: 60px;
+}

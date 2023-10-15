@@ -1,0 +1,84 @@
+.kal{
+    text-align: center;
+    border: 2px solid white;
+    background-color: #E0B0FF;
+    border-radius: 20px;
+    padding: 30px;
+    margin: 19%;
+}
+h1{
+    color: #0f0e46;
+}
+.har {
+    padding: 200px;
+    border: 2px solid #E0B0FF;
+    border-radius: 20px;
+    box-shadow: 0 0 10px 5px #5a5a5a; /* Add shadow to all sides with black color */
+}
+#ari{
+    padding: 25px;
+    margin-right: 8px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px #5a5a5a;
+}
+.rev1{
+    background-color: red;
+}
+.rev2{
+    background-color: rgb(2, 255, 2);
+}
+.rev3{
+    background-color: blue;
+}
+.rev4{
+    background-color: yellow;
+}
+.rev5{
+    background-color: rgb(251, 143, 251);
+}
+.rev6{
+    background-color: aqua;
+}
+.rev7{
+    background-color: orange;
+}
+.rev8{
+    background-color: rgb(160, 2, 227);
+}
+.rev9{
+    background-color: pink;
+}
+.rev10{
+    background-color: green;
+}
+.rev11{
+    background-color: orangered;
+}
+.rev12{
+    background-color: rgb(0, 223, 223);
+}
+.rev13{
+    background-color: brown;
+}
+.rev14{
+    background-color: rgb(217, 141, 0);
+}
+.rev15{
+    background-color: #0f0e46;
+}
+.rev16{
+    background-color: gold;
+}
+.las{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5px;
+}
+button{
+    background-color: rgb(6, 217, 6);
+    padding: 20px;
+    border: 2px solid rgb(6, 217, 6);
+    border-radius: 10px;
+    box-shadow: 0 0 10px 5px #5a5a5a;
+}
